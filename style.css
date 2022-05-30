@@ -120,7 +120,7 @@ h3 {
 }
 
 /* Completed */
-.section__label {
+.section__label--completed {
   text-decoration: line-through;
   color: #888;
 }

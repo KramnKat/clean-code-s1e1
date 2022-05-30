@@ -41,14 +41,13 @@ ul {
   margin: 0;
   padding: 0px;
 }
-li, h3 {
+li, 
+h3 {
   list-style: none;
 }
 .section__button {
-  outline: none;
-}
-.section__button {
   background: none;
+  outline: none;
   border: 0px;
   color: #888;
   font-size: 15px;
